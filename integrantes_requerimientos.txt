@@ -1,0 +1,15 @@
+Integrantes:
+	Joan Sebastin Caselles Quintero
+	Samir Rodriguez Ramirez
+
+Requerimientos:
+	Node.js
+	jspdf
+
+instalar con: 
+	npm istall -y(para instalar todas las dependencias)
+	npm install jspdf jspdf-autotable
+
+y instalar node js en su plataforma oficial
+
+
